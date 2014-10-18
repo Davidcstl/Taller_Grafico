@@ -1,0 +1,100 @@
+#about {
+height: auto;
+	width: 50%;
+	padding-top: 5%;
+	padding-left: 39%;
+
+
+}
+
+#me {
+
+	
+	font-family: 'Lato', sans-serif;
+font-size: 1.2em;
+padding-bottom: 10%;
+text-align: center;
+padding-top: 2%;
+
+}
+
+
+a:hover {
+	opacity: 0.3;
+}
+
+a {
+
+	text-decoration: none;
+	color: black;
+}
+
+
+li {
+
+font-family: 'Lato', sans-serif;
+font-size: 1.4em;
+font-variant: thin;
+display: inline;
+padding-top: 20px;
+line-height: 150px;
+padding-left: 37px;	
+}
+
+hr {
+	margin-right: auto;
+	margin-left: auto;
+	width: 30%;
+}
+
+
+
+ul {
+	padding-top: 10px;
+margin-right: auto;
+margin-left: auto; 
+	padding-left: 33%;
+}
+
+
+#logito {
+height: auto;
+width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 40%;
+	padding-top: 3%;
+}
+
+
+
+    img{
+        width: 50%
+}
+
+#contact {
+padding-top: 3%;
+margin-left: auto;
+margin-right: auto;
+width: 33%;
+font-family: 'Lato', sans-serif;
+font-size: 1.2em;
+text-align: center;
+}
+
+h1 {
+
+	padding-top: 3%;
+margin-left: auto;
+margin-right: auto;
+width: 33%;
+font-family: Helvetica;
+font-size: 2.1em;
+text-align: center;
+}
+
+
+
+
+
+
